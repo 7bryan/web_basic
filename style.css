@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4; /*warna background putih*/
+    color: #333;
+}
+
+header{
+    background: #1e90ff;
+    color: white;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.top{
+    text-align: center;
+    text-emphasis-color: white;
+
+}
+
+.profile_image{
+    width: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+}
+
